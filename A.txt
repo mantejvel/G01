@@ -1,5 +1,3 @@
-<<<<<<< HEAD
 Cambiando en b para originar conflicto
-=======
 Cambiando en master para originar conflicto
->>>>>>> master
+
